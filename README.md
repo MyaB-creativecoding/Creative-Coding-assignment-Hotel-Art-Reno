@@ -7,3 +7,5 @@ This project was done with Processing, using Java script.
 ##Extra information
 I have two file named under Lounge. The one with the capital 'L' is empty, as I had deleted it. The one with the lowercase has the code.
 The ones with screenshot in front are the final artworks. I can't change the name or the artwork doesn't show.
+##Artwork navigation
+Screenshot 2026-09-23 204158.png -Kitchen
