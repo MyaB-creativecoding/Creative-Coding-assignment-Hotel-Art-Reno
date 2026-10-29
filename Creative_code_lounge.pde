@@ -1,5 +1,5 @@
 void setup()
-
+//This code original idea is inspired by 5toCode YouTube videos. This is episode 4 of the processing art series. The code taken from this video is purely just how to make the circle four way pattern. The design and of how to use the circles, the rectangles, colours and sizes have been changed by me. 
 {
   size(650,500);
   //changed the colour to teal as it is more relaxing and helps the shapes to stand out then the black background 
