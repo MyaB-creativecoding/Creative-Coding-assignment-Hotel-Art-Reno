@@ -12,3 +12,5 @@ Screenshot 2026-09-23 204158.png -Kitchen
 Screenshot 2026-10-02 113314.png- Bathroom part 3
 Screenshot 2026-10-03 171305.png- Bathroom part 2
 Screenshot 2026-10-03 171439.png -Bathroom part 1
+Screenshot 2026-10-13 221546.png-Bedroom
+Screenshot creative code lounge.png- Lounge
