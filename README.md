@@ -9,3 +9,6 @@ I have two file named under Lounge. The one with the capital 'L' is empty, as I 
 The ones with screenshot in front are the final artworks. I can't change the name or the artwork doesn't show.
 ##Artwork navigation
 Screenshot 2026-09-23 204158.png -Kitchen
+Screenshot 2026-10-02 113314.png- Bathroom part 3
+Screenshot 2026-10-03 171305.png- Bathroom part 2
+Screenshot 2026-10-03 171439.png -Bathroom part 1
