@@ -1,5 +1,5 @@
 import processing.pdf.*;
-
+//To get the code for the shapes, I used the Processing reference page, especially the part about the 2D primitives. I also used the flower pattern from the Processing examples page. However, the idea and design of the fruit shapes are all mine, the layout, colour and design are all mine.  
 int angle = 0;
 void setup() {
   size(840, 660);
